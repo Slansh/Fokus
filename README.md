@@ -21,17 +21,13 @@ Este projeto combina um temporizador Pomodoro com uma lista de tarefas, ajudando
 
 ## Como Usar
 
-1.  **Clonar o repositório:**
-    ```bash
-    git clone [https://github.com/dolthub/dolt](https://github.com/dolthub/dolt)
-    ```
-2.  **Abrir o arquivo `index.html` no seu navegador.**
-3.  **Temporizador Pomodoro:**
+1.  **Abrir o arquivo `index.html` no seu navegador.**
+2.  **Temporizador Pomodoro:**
     * Selecione o modo desejado (foco, descanso curto ou descanso longo).
     * Clique em "Começar" para iniciar o temporizador.
     * Clique em "Pausar" para interromper o temporizador.
     * Use o botão de alternar música para ligar ou desligar a musica de fundo.
-4.  **Lista de Tarefas:**
+3.  **Lista de Tarefas:**
     * Clique no botão "+" para adicionar uma nova tarefa.
     * Digite a descrição da tarefa e pressione "Adicionar".
     * Clique em uma tarefa para selecioná-la.
@@ -42,7 +38,8 @@ Este projeto combina um temporizador Pomodoro com uma lista de tarefas, ajudando
 ## Estrutura do Código
 
 * **`index.html`:** Estrutura HTML da aplicação.
-* **`script.js`:** Lógica JavaScript para o temporizador Pomodoro e a lista de tarefas.
+* **`script.js`:** Lógica JavaScript para o temporizador Pomodoro.
+* **`script-crud.js`:** Lógica JavaScript para o gerenciador de tarefas.
 * **`style.css`:** Estilos CSS da aplicação.
 * **`imagens/`:** Diretório contendo imagens utilizadas na aplicação.
 * **`sons/`:** Diretório contendo arquivos de áudio utilizados na aplicação.
