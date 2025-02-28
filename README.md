@@ -5,4 +5,4 @@ Este projetocombina um temporizadorPomodorocom uma lista de tarefas, ajudando vo
 ## Funcionalidades
 
 * **Temporizador Pomodoro:**
-* Modos de foco
+    * Modos de foco
