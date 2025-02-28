@@ -5,5 +5,4 @@ Este projetocombina um temporizadorPomodorocom uma lista de tarefas, ajudando vo
 ## Funcionalidades
 
 * **Temporizador Pomodoro:**
-      *Modos de foco, descanso curto e descanso longo.
-      *Contagem regressiva com exibição de tempo formatada.
+* Modos de foco
